@@ -28,7 +28,7 @@ peek (){
 }
 
 size (){
-    return this.rear-this.front
+    return this.rear-this.front;
 }
 
 print (){
