@@ -23,12 +23,12 @@ As a bonus, talking through your code also helps you identify which portions nee
 Directory |sub-directories in main directory |  files  |
 --------- | ---------------------------------|----------
 [JS_Array_methods](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods) | [JsMath_methods](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods/JsMath_methods), [commonArrays](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods/commonArrays) |MathJs_Array_methods.js, arraymethods.js
-[binarySearch](https://github.com/Timoh97/DSA/tree/master/binarySearch) | []()
-[factorial](https://github.com/Timoh97/DSA/tree/master/factorial) | []()
-[fibonacci](https://github.com/Timoh97/DSA/tree/master/fibonacci) | []()
-[linear search DS](https://github.com/Timoh97/DSA/tree/master/linearSearch) | []()
-[Linked lists DS](https://github.com/Timoh97/DSA/tree/master/linkedlist) | []()
-[loops](https://github.com/Timoh97/DSA/tree/master/loops) | []()
+[binarySearch](https://github.com/Timoh97/DSA/tree/master/binarySearch) | []() | binarysearch.js, recursiveBinarySearch.js
+[factorial](https://github.com/Timoh97/DSA/tree/master/factorial) | []() | factorial.js
+[fibonacci](https://github.com/Timoh97/DSA/tree/master/fibonacci) | []()  | fibonnaci.js
+[linear search DS](https://github.com/Timoh97/DSA/tree/master/linearSearch) | []() | linearSearch.js
+[Linked lists DS](https://github.com/Timoh97/DSA/tree/master/linkedlist) | [circularlinked](https://github.com/Timoh97/DSA/tree/master/linkedlist/circularlinked),[doublylinked](https://github.com/Timoh97/DSA/tree/master/linkedlist/doublylinked),[singlylinked](https://github.com/Timoh97/DSA/tree/master/linkedlist/singlylinked)  | cLInkedlist.js, dLinkedlist.js, sLinkedlist.js
+[loops](https://github.com/Timoh97/DSA/tree/master/loops) | []() |
 [prime number test](https://github.com/Timoh97/DSA/tree/master/primeNumber) | []()
 [Queue DS](https://github.com/Timoh97/DSA/tree/master/queue) | []()
 [Stack DS](https://github.com/Timoh97/DSA/tree/master/stack) | []()
