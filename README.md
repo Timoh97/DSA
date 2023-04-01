@@ -22,16 +22,16 @@ As a bonus, talking through your code also helps you identify which portions nee
 # Content
 Directory |sub-directories in main directory |  files  |
 --------- | ---------------------------------|----------
-1.[JS_Array_methods](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods) | [JsMath_methods](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods/JsMath_methods), [commonArrays](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods/commonArrays) |MathJs_Array_methods.js, arraymethods.js
-[binarySearch](https://github.com/Timoh97/DSA/tree/master/binarySearch) | []()
-[factorial](https://github.com/Timoh97/DSA/tree/master/factorial) | []()
-[fibonacci](https://github.com/Timoh97/DSA/tree/master/fibonacci) | []()
-[linear search DS](https://github.com/Timoh97/DSA/tree/master/linearSearch) | []()
-[Linked lists DS](https://github.com/Timoh97/DSA/tree/master/linkedlist) | []()
-[loops](https://github.com/Timoh97/DSA/tree/master/loops) | []()
-[prime number test](https://github.com/Timoh97/DSA/tree/master/primeNumber) | []()
-[Queue DS](https://github.com/Timoh97/DSA/tree/master/queue) | []()
-[Stack DS](https://github.com/Timoh97/DSA/tree/master/stack) | []()
-[Bubble sort algorithm](https://github.com/Timoh97/DSA/blob/master/bubbleSort.js) | []()
-[Heap Sort algorithm](https://github.com/Timoh97/DSA/blob/master/heapSort.js) | []()
-[Insertion sort algorithm](https://github.com/Timoh97/DSA/blob/master/insertionSort.js) | []()
+1. [JS_Array_methods](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods) | [JsMath_methods](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods/JsMath_methods), [commonArrays](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods/commonArrays) |MathJs_Array_methods.js, arraymethods.js
+2. [binarySearch](https://github.com/Timoh97/DSA/tree/master/binarySearch) | []()
+3. [factorial](https://github.com/Timoh97/DSA/tree/master/factorial) | []()
+4. [fibonacci](https://github.com/Timoh97/DSA/tree/master/fibonacci) | []()
+5. [linear search DS](https://github.com/Timoh97/DSA/tree/master/linearSearch) | []()
+6. [Linked lists DS](https://github.com/Timoh97/DSA/tree/master/linkedlist) | []()
+7. [loops](https://github.com/Timoh97/DSA/tree/master/loops) | []()
+8. [prime number test](https://github.com/Timoh97/DSA/tree/master/primeNumber) | []()
+9. [Queue DS](https://github.com/Timoh97/DSA/tree/master/queue) | []()
+10. [Stack DS](https://github.com/Timoh97/DSA/tree/master/stack) | []()
+11. [Bubble sort algorithm](https://github.com/Timoh97/DSA/blob/master/bubbleSort.js) | []()
+12. [Heap Sort algorithm](https://github.com/Timoh97/DSA/blob/master/heapSort.js) | []()
+13. [Insertion sort algorithm](https://github.com/Timoh97/DSA/blob/master/insertionSort.js) | []()
