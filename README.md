@@ -28,10 +28,10 @@ Directory |sub-directories in main directory |  files  |
 [fibonacci](https://github.com/Timoh97/DSA/tree/master/fibonacci) | []()  | fibonnaci.js
 [linear search DS](https://github.com/Timoh97/DSA/tree/master/linearSearch) | []() | linearSearch.js
 [Linked lists DS](https://github.com/Timoh97/DSA/tree/master/linkedlist) | [circularlinked](https://github.com/Timoh97/DSA/tree/master/linkedlist/circularlinked),[doublylinked](https://github.com/Timoh97/DSA/tree/master/linkedlist/doublylinked),[singlylinked](https://github.com/Timoh97/DSA/tree/master/linkedlist/singlylinked)  | cLInkedlist.js, dLinkedlist.js, sLinkedlist.js
-[loops](https://github.com/Timoh97/DSA/tree/master/loops) | []() |
-[prime number test](https://github.com/Timoh97/DSA/tree/master/primeNumber) | []()
-[Queue DS](https://github.com/Timoh97/DSA/tree/master/queue) | []()
-[Stack DS](https://github.com/Timoh97/DSA/tree/master/stack) | []()
-[Bubble sort algorithm](https://github.com/Timoh97/DSA/blob/master/bubbleSort.js) | []()
-[Heap Sort algorithm](https://github.com/Timoh97/DSA/blob/master/heapSort.js) | []()
-[Insertion sort algorithm](https://github.com/Timoh97/DSA/blob/master/insertionSort.js) | []()
+[loops](https://github.com/Timoh97/DSA/tree/master/loops) | []() | forLoop.js, whileLoop.js, do-WhileLoop.js, forInLoop.js
+[prime number test](https://github.com/Timoh97/DSA/tree/master/primeNumber) | []() | prime.js
+[Queue](https://github.com/Timoh97/DSA/tree/master/queue) | []() | advanced_queue.js, circular_queue.js, queue.js
+[Stack](https://github.com/Timoh97/DSA/tree/master/stack) | []() | stack.js
+[Bubble_sort](https://github.com/Timoh97/DSA/blob/master/bubbleSort.js) | []() | sorts an array
+[HeapSort](https://github.com/Timoh97/DSA/blob/master/heapSort.js) | []() | sorts an array
+[InsertionSort](https://github.com/Timoh97/DSA/blob/master/insertionSort.js) | []() | sorts an array
