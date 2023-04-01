@@ -20,7 +20,7 @@ As a bonus, talking through your code also helps you identify which portions nee
 
 
 # Content
-Directory |sub-directories in main directory |  files  |
+Directory |sub-directories in main directory |  files/explanation  |
 --------- | ---------------------------------|----------
 [JS_Array_methods](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods) | [JsMath_methods](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods/JsMath_methods), [commonArrays](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods/commonArrays) |MathJs_Array_methods.js, arraymethods.js
 [binarySearch](https://github.com/Timoh97/DSA/tree/master/binarySearch) | []() | binarysearch.js, recursiveBinarySearch.js
