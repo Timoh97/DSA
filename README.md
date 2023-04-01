@@ -35,3 +35,25 @@ Directory |sub-directories in main directory |  files/explanation  |
 [Bubble_sort](https://github.com/Timoh97/DSA/blob/master/bubbleSort.js) | []() | sorts an array
 [HeapSort](https://github.com/Timoh97/DSA/blob/master/heapSort.js) | []() | sorts an array
 [InsertionSort](https://github.com/Timoh97/DSA/blob/master/insertionSort.js) | []() | sorts an array
+
+
+# Additional Resources for interview preparation
+- [Top 30 JS Interview questions](https://drive.google.com/file/d/1_8shI43rYPvw9qc4yox8SwggvAtDnKwe/view?usp=share_link)
+- [Understand React Hooks](https://drive.google.com/file/d/10gQfXVCpa1JCqkx_253wN5RX-skeS_6c/view?usp=share_link)
+- [Top 50 React interview Questions](https://drive.google.com/file/d/12ox6D9XMtnjGl22UZN_kyv13sA5HWu8t/view?usp=share_link)
+- [Interview Answers to tough questions](https://drive.google.com/file/d/1nOZ4zZ3UphQtIW0xKc-BpXTKSTEEjqU2/view?usp=share_link)
+- [Top 6 Algorithms to know](https://drive.google.com/file/d/17UY7ZXJ73u8vmSKwuHoLmf17-_20ffkA/view?usp=share_link)
+- [Advanced Javascript](https://drive.google.com/file/d/14KjFgnWh5sH1f18HDF6Bev53Q5e8NCKK/view?usp=share_link)
+- [Javascript Object Notation](https://drive.google.com/file/d/1rPNkVBjsonfKnQA5EA_vVmeQ3Vd0IqOW/view?usp=share_link)
+- [Web Developer Interview Questions](https://drive.google.com/file/d/1yq7I5DvAR1g8oPXypX2Hsko5rIIIcNdq/view?usp=share_link)
+- [Useful React.js Tools](https://drive.google.com/file/d/1s_l7w3LlGY9R3bm0fpJYqryNnDY6Hiht/view?usp=share_link)
+- [Fetching Api](https://drive.google.com/file/d/18wWeiMd-X1_PU7PlRatPkBXxybR2HTa-/view?usp=share_link)
+- [DSA notes](https://drive.google.com/file/d/1HuCSjUxnC5jMV0c3PesnGNp0kEAuyMPd/view?usp=share_link)
+- [DSA interview questions and Answers](https://drive.google.com/file/d/12UDTnzv45RPdoU1_BBqvr_-HSeDrbiz8/view?usp=share_link)
+- [Data Types](https://drive.google.com/file/d/1cJwN5OHaNm0j2pMQRKjezjBsCfSNaPCy/view?usp=share_link)
+- [Calling an Api](https://drive.google.com/file/d/14lgQu2Fyi3x3HRpYazqaVRq2a81eCgfS/view?usp=share_link)
+- [Additional Interview Questions](https://drive.google.com/file/d/1B3gvouPxld9OYwbNMBjmz0tvI6MAM6XV/view?usp=share_link)
+- [React Interview](https://drive.google.com/file/d/1LudELuM2yeNavRf1Zon7f6ul012-2JFn/view?usp=share_link)
+
+## AUTHOR
+**TIMOTHY MUGENDI**
