@@ -20,9 +20,9 @@ As a bonus, talking through your code also helps you identify which portions nee
 
 
 # Content
-Directory | sub-directories |  files  |
---------- | ----------------|-----------|
-[JS_Array_methods](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods) | [JsMath_methods](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods/JsMath_methods), [commonArrays](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods/commonArrays) |MathJs_Array_methods.js, arraymethods.js
+Directory |sub-directories in main directory |  files  |
+--------- | ---------------------------------|----------
+1.[JS_Array_methods](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods) | [JsMath_methods](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods/JsMath_methods), [commonArrays](https://github.com/Timoh97/DSA/tree/master/JS_Array_methods/commonArrays) |MathJs_Array_methods.js, arraymethods.js
 [binarySearch](https://github.com/Timoh97/DSA/tree/master/binarySearch) | []()
 [factorial](https://github.com/Timoh97/DSA/tree/master/factorial) | []()
 [fibonacci](https://github.com/Timoh97/DSA/tree/master/fibonacci) | []()
