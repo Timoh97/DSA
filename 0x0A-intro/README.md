@@ -7,10 +7,26 @@ n - is the length of the input
 
 
 ### Graphical Representation of Big O - notation
-
+#### big O complexity graph
 ![Big O-notation graph](https://paper-attachments.dropbox.com/s_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio+17.png)
 
-![Big O-notation graph](https://he-s3.s3.amazonaws.com/media/uploads/c14cb1f.JPG)
+#### Data structures
+![Data structures](https://he-s3.s3.amazonaws.com/media/uploads/c14cb1f.JPG)
+
+#### Searching algorithm
+
+![searching algorithms](https://he-s3.s3.amazonaws.com/media/uploads/1e0079d.JPG)
+
+#### Sorting algorithm
+
+![sorting algorithms](https://he-s3.s3.amazonaws.com/media/uploads/2d5308d.JPG)
+
+#### Heaps
+
+![heaps](https://he-s3.s3.amazonaws.com/media/uploads/3a17756.JPG)
+#### Graphs
+
+![graphs](https://he-s3.s3.amazonaws.com/media/uploads/526213e.JPG)
 
 ## LINEAR DATA STRUCTURE
 A linear data structure is one where data items are arranged in a linear fashion. Each member is attached to its neighboring elements. The structure permits single-level data storage because the data elements are stored in a linear fashion. The data can be traversed in one run.
