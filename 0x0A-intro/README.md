@@ -8,23 +8,16 @@ n - is the length of the input
 
 ### Graphical Representation of Big O - notation
 #### big O complexity graph
+
 ![Big O-notation graph](https://paper-attachments.dropbox.com/s_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio+17.png)
 
-#### Data structures
 ![Data structures](https://he-s3.s3.amazonaws.com/media/uploads/c14cb1f.JPG)
-
-#### Searching algorithm
 
 ![searching algorithms](https://he-s3.s3.amazonaws.com/media/uploads/1e0079d.JPG)
 
-#### Sorting algorithm
-
 ![sorting algorithms](https://he-s3.s3.amazonaws.com/media/uploads/2d5308d.JPG)
 
-#### Heaps
-
 ![heaps](https://he-s3.s3.amazonaws.com/media/uploads/3a17756.JPG)
-#### Graphs
 
 ![graphs](https://he-s3.s3.amazonaws.com/media/uploads/526213e.JPG)
 
