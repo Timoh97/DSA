@@ -1,3 +1,10 @@
+## BIG 0(n) NOTATION
+Big O notation --- is denoted as O(n)
+
+O - is the order of growth
+
+n - is the length of the input
+
 ## LINEAR DATA STRUCTURE
 A linear data structure is one where data items are arranged in a linear fashion. Each member is attached to its neighboring elements. The structure permits single-level data storage because the data elements are stored in a linear fashion. The data can be traversed in one run.
 
