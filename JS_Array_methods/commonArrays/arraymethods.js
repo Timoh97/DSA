@@ -59,3 +59,13 @@ length // Sets or returns the number of elements in an array
 lastIndexOf() // Search the array for an element, starting at the end, and returns its position
 
 keys() //Returns a Array Iteration Object, containing the keys of the original array
+
+
+//
+//The toUpperCase() //method converts a string to uppercase letters.
+
+//The toUpperCase() //method does not change the original string.The toUpperCase() method converts a string to uppercase letters.
+
+//The toUpperCase() //method does not change the original string.
+let text = "Hello World!";
+let result = text.toUpperCase();
