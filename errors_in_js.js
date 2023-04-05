@@ -12,3 +12,22 @@ try {
 catch(err) {
     Block of code to handle errors
 }
+
+// types of errors in javascript
+
+SyntaxError //An exception caused by the incorrect use of a pre-defined syntax
+
+EvalError //indicates an error regarding the global eval() function
+
+RangeError // thrown when trying to pass a value as an argument to a function that does not allow a range that includes the value
+
+ReferenceError // A ReferenceError occurs when you try to use a variable that doesn't exist at all
+
+TypeError // A TypeError occurs when the variable exists, but the operation you're trying to perform is not appropriate for the type of value it contains
+
+URIError
+
+Message
+
+name
+
