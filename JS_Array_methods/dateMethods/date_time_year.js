@@ -30,10 +30,11 @@ let seconds = d.getSeconds ()
 
 getMonth () // getMonth() returns the month (0 to 11) of a date
 const d = new Date();
+let month = d.getMonth () 
 
 getTime () // getTime() returns the number of milliseconds since January 1, 1970 00:00:00.
 const d = new Date();
-let time = d.getMonth ();
+let time = d.getTime ();
 
 getUTCDate () // getUTCDate() returns the day of the month (1 to 31) of a date object
 const d = new Date();
