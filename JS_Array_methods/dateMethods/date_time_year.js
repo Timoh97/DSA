@@ -42,3 +42,48 @@ let utcdate = d.getUTCDate ();
 
 
 // set date and time
+// Set the day of the month to the last day of the previous month
+const d = new Date();
+d.setDate(15);
+
+
+setFullYear() //sets the year of a date.
+setFullYear() //can also set month and day.
+const d = new Date();
+d.setFullYear(2020);
+
+//or 
+const d = new Date();
+d.setFullYear(2020, 10, 3);
+
+
+setHours() // sets the hour of a date.
+setHours() // can also set minutes, seconds and milliseconds.
+const d = new Date();
+d.setHours(15, 35, 1);
+
+setMilliseconds() //sets the milliseconds of a date.
+const d = new Date();
+d.setMilliseconds(192);
+
+setMinutes() // sets the minutes of a date.
+const d = new Date();
+d.setMinutes(d.getMinutes() - 90); //Set the date time to be 90 minutes ago:
+
+// Set the month to 4 (May):
+const d = new Date();
+d.setMonth(4);
+
+// Set the seconds to 35:
+const d = new Date();
+d.setSeconds(35);
+
+//Add 1332403882588 milliseconds to January 1, 1970:
+const d = new Date();
+d.setTime(1332403882588);
+
+// Set the day of the month, according to UTC:
+const d = new Date();
+d.setUTCDate(15);
+
+
