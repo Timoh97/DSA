@@ -54,6 +54,8 @@ Directory |sub-directories in main directory |  files/explanation  |
 - [Calling an Api](https://drive.google.com/file/d/14lgQu2Fyi3x3HRpYazqaVRq2a81eCgfS/view?usp=share_link)
 - [Additional Interview Questions](https://drive.google.com/file/d/1B3gvouPxld9OYwbNMBjmz0tvI6MAM6XV/view?usp=share_link)
 - [React Interview](https://drive.google.com/file/d/1LudELuM2yeNavRf1Zon7f6ul012-2JFn/view?usp=share_link)
+- [75 Most important DSA leetcode questions](https://drive.google.com/drive/folders/10Y48GKch0-7iLRdXA5CeFs9GIxwYTPO)
+-[Things to learn before frameworks](https://drive.google.com/drive/folders/10Y48GKch0-7iLRdXA5CeFs9GIxwYTPO)
 
 ## AUTHOR
 **TIMOTHY MUGENDI**

@@ -27,4 +27,4 @@ function binarySearch (arr, k){
 }
 
 console.log(binarySearch ([4,6,7,8,9], 6)) //1
-console.log(binarySearch ([1,2,4,7,9], 6)) // -1
+console.log(binarySearch ([1,2,4,7,6], 6)) // -1
